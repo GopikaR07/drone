@@ -1,1 +1,10 @@
+path: C:\Users\gopik\OneDrive\Desktop\Drone\data.yaml  
 
+train: C:\Users\gopik\OneDrive\Desktop\Drone\images\train
+val: C:\Users\gopik\OneDrive\Desktop\Drone\images\val
+test: C:\Users\gopik\OneDrive\Desktop\Drone\images\test
+
+nc: 10
+
+names: ["AnnualCrop", "Forest", "HerbaceousVegetation", "Highway", "Industrial",
+        "Pasture", "PermanentCrop", "Residential", "River", "SeaLake"]
