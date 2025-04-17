@@ -60,15 +60,9 @@ This project presents a **CustomTkinter-based desktop application** that detects
 
 ## ⚙️ Modules Overview
 
-| Module              | Functionality                              |
-|---------------------|---------------------------------------------|
-| `final.py`           | Launches the GUI
-|
-|                      | Runs YOLOv8-based terrain detection         |
-|                      | Manages user alert preferences              |
-|                      | Handles audio alerts                        |
-
----
+| Module     | Functionality                                  |
+|------------|------------------------------------------------|
+| `final.py` | Handles the entire system: GUI, YOLOv8-based terrain detection, user alert preferences, and audio alerts |
 
 ## 📂 Dataset
 
