@@ -42,7 +42,7 @@ This project presents a **CustomTkinter-based desktop application** that detects
 
 1. Clone this repository:
    ```bash
-   git clone [<your-repo-url>](https://github.com/GopikaR07/drone.git)
+   git clone https://github.com/GopikaR07/drone.git
    ```
 2. Install dependencies:
    ```bash
