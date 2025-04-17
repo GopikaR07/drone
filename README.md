@@ -70,12 +70,13 @@ We used a labeled dataset inspired by **EuroSAT** and other drone-based terrain 
 
 ---
 
-## 🧠 Models
+## 🧠 Model
 
-The primary detection models used:
+The primary detection model used:
 
-- **YOLOv8-Small** (mAP@0.5: `0.91`, Inference Time: `1.2 ms`)
-- **YOLOv8-Large** (mAP@0.5: `0.94`, Inference Time: `3.5 ms`)
+- **YOLOv8n (Nano)**  
+  - Accuracy (mAP@0.5): `0.91`  
+  - Inference Time: `1.2 ms`  
 
 ✅ Only user-selected terrains will trigger alerts.
 
