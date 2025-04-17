@@ -42,7 +42,7 @@ This project presents a **CustomTkinter-based desktop application** that detects
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/GopikaR07/drone.git)
    ```
 2. Install dependencies:
    ```bash
@@ -62,10 +62,11 @@ This project presents a **CustomTkinter-based desktop application** that detects
 
 | Module              | Functionality                              |
 |---------------------|---------------------------------------------|
-| `main.py`           | Launches the GUI                            |
-| `terrain_detector.py`| Runs YOLOv8-based terrain detection         |
-| `alert_config.py`   | Manages user alert preferences              |
-| `pyttsx3`            | Handles audio alerts                        |
+| `final.py`           | Launches the GUI
+|
+|                      | Runs YOLOv8-based terrain detection         |
+|                      | Manages user alert preferences              |
+|                      | Handles audio alerts                        |
 
 ---
 
