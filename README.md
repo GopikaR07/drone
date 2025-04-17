@@ -35,7 +35,8 @@ This project presents a **CustomTkinter-based desktop application** that detects
 ## 🖼️ Example Image
 
 ![Example Terrain Detection](example_terrain_image.png)
-
+---
+![Example Terrain Detection](forest.png)
 ---
 
 ## 🚀 Getting Started
