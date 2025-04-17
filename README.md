@@ -3,6 +3,8 @@
 
 ## 📌 Description
 
+![Example Drone](drone.png)
+
 This project presents a **CustomTkinter-based desktop application** that detects and classifies various terrain types from aerial images and videos using deep learning. It is designed to support **autonomous drone systems** in recognizing environments like forests, roads, water bodies, and more.
 
 🔔 The application includes an **alert system** that notifies the user when a selected terrain type is detected.
